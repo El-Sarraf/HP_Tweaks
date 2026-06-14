@@ -1,0 +1,41 @@
+Event: time 1781180192.299130, type 4 (EV_MSC), code 4 (MSC_SCAN), value 68
+Event: time 1781180192.299130, -------------- SYN_REPORT ------------
+Event: time 1781180192.437232, type 4 (EV_MSC), code 4 (MSC_SCAN), value 68
+Event: time 1781180192.437232, -------------- SYN_REPORT ------------
+Event: time 1781180194.462650, type 4 (EV_MSC), code 4 (MSC_SCAN), value 68
+Event: time 1781180194.462650, -------------- SYN_REPORT ------------
+Event: time 1781180194.569322, type 4 (EV_MSC), code 4 (MSC_SCAN), value 68
+Event: time 1781180194.569322, -------------- SYN_REPORT ------------
+Event: time 1781180194.810765, type 4 (EV_MSC), code 4 (MSC_SCAN), value 68
+Event: time 1781180194.810765, -------------- SYN_REPORT ------------
+Event: time 1781180194.926770, type 4 (EV_MSC), code 4 (MSC_SCAN), value 68
+Event: time 1781180194.926770, -------------- SYN_REPORT ------------
+Event: time 1781180195.304419, type 4 (EV_MSC), code 4 (MSC_SCAN), value 68
+Event: time 1781180195.304419, -------------- SYN_REPORT ------------
+Event: time 1781180195.383773, type 4 (EV_MSC), code 4 (MSC_SCAN), value 68
+after
+Event: time 1781347724.583610, type 4 (EV_MSC), code 4 (MSC_SCAN), value 68
+Event: time 1781347724.583610, type 1 (EV_KEY), code 164 (KEY_PLAYPAUSE), value 1
+Event: time 1781347724.583610, -------------- SYN_REPORT ------------
+Event: time 1781347724.724576, type 4 (EV_MSC), code 4 (MSC_SCAN), value 68
+Event: time 1781347724.724576, type 1 (EV_KEY), code 164 (KEY_PLAYPAUSE), value 0
+Event: time 1781347724.724576, -------------- SYN_REPORT ------------
+Event: time 1781347728.484150, type 4 (EV_MSC), code 4 (MSC_SCAN), value 68
+Event: time 1781347728.484150, type 1 (EV_KEY), code 164 (KEY_PLAYPAUSE), value 1
+Event: time 1781347728.484150, -------------- SYN_REPORT ------------
+Event: time 1781347728.581689, type 4 (EV_MSC), code 4 (MSC_SCAN), value 68
+Event: time 1781347728.581689, type 1 (EV_KEY), code 164 (KEY_PLAYPAUSE), value 0
+Event: time 1781347728.581689, -------------- SYN_REPORT ------------
+Event: time 1781347729.384346, type 4 (EV_MSC), code 4 (MSC_SCAN), value 68
+Event: time 1781347729.384346, type 1 (EV_KEY), code 164 (KEY_PLAYPAUSE), value 1
+Event: time 1781347729.384346, -------------- SYN_REPORT ------------
+Event: time 1781347730.537631, type 4 (EV_MSC), code 4 (MSC_SCAN), value 68
+Event: time 1781347730.537631, type 1 (EV_KEY), code 164 (KEY_PLAYPAUSE), value 0
+Event: time 1781347730.537631, -------------- SYN_REPORT ------------
+Event: time 1781347731.259738, type 4 (EV_MSC), code 4 (MSC_SCAN), value 68
+Event: time 1781347731.259738, type 1 (EV_KEY), code 164 (KEY_PLAYPAUSE), value 1
+Event: time 1781347731.259738, -------------- SYN_REPORT ------------
+Event: time 1781347731.405759, type 4 (EV_MSC), code 4 (MSC_SCAN), value 68
+Event: time 1781347731.405759, type 1 (EV_KEY), code 164 (KEY_PLAYPAUSE), value 0
+Event: time 1781347731.405759, -------------- SYN_REPORT ------------
+

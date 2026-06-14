@@ -1,0 +1,15 @@
+Event: time 1781180192.299130, type 4 (EV_MSC), code 4 (MSC_SCAN), value 68
+Event: time 1781180192.299130, -------------- SYN_REPORT ------------
+Event: time 1781180192.437232, type 4 (EV_MSC), code 4 (MSC_SCAN), value 68
+Event: time 1781180192.437232, -------------- SYN_REPORT ------------
+Event: time 1781180194.462650, type 4 (EV_MSC), code 4 (MSC_SCAN), value 68
+Event: time 1781180194.462650, -------------- SYN_REPORT ------------
+Event: time 1781180194.569322, type 4 (EV_MSC), code 4 (MSC_SCAN), value 68
+Event: time 1781180194.569322, -------------- SYN_REPORT ------------
+Event: time 1781180194.810765, type 4 (EV_MSC), code 4 (MSC_SCAN), value 68
+Event: time 1781180194.810765, -------------- SYN_REPORT ------------
+Event: time 1781180194.926770, type 4 (EV_MSC), code 4 (MSC_SCAN), value 68
+Event: time 1781180194.926770, -------------- SYN_REPORT ------------
+Event: time 1781180195.304419, type 4 (EV_MSC), code 4 (MSC_SCAN), value 68
+Event: time 1781180195.304419, -------------- SYN_REPORT ------------
+Event: time 1781180195.383773, type 4 (EV_MSC), code 4 (MSC_SCAN), value 68

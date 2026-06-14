@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="HP_Tweaks.CLI/HP_Tweaks.CLI.csproj" />
+  <Project Path="HP_Tweaks.Tests/HP_Tweaks.Tests.csproj" />
+</Solution>
