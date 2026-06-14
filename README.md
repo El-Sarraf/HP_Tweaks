@@ -1,7 +1,7 @@
 # HP EliteBook Linux Function Keys Tweaker
 
 <p align="center">
-  <img src="https://img.shields.io/badge/.NET-8.0-purple?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/.NET-10.0-purple?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Linux-Only-green?style=for-the-badge" />
   <img src="https://img.shields.io/badge/HP-EliteBook-blue?style=for-the-badge" />
   <img src="https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge" />
@@ -106,7 +106,7 @@ All radios disabled
 # Requirements
 
 * Linux
-* .NET 8 Runtime
+* .NET 10 Runtime (Building local only)
 * systemd
 * udev
 * NetworkManager
@@ -127,7 +127,7 @@ cd hp-elitebook-linux-function-tweaker
 Build:
 
 ```bash
-dotnet build -c Release
+dotnet publish -c Release -r linux-x64 --self-contained true -p:PublishSingleFile=true
 ```
 
 Run:
